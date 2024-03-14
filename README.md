@@ -1,5 +1,8 @@
 ## Python_en_PowerBI
+
 Important information about how to use Python in PowerBi and main libraries
+
+.........................................................................................................
 
 Pasos
 1. Instalar Python – web Python.org   3.12.2
