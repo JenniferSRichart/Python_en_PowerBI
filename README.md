@@ -37,17 +37,17 @@ Para actualizarlas pip install –upgrade
  
 5. Si lo hacemos desde Anaconda
 
-  a. Instalamos Free Download | Anaconda
-
-  b. Buscar Anaconda notebooks- Jupyter. En Jupyter podemos instalar las librerías igual con pip install y si queremos verificar si están cargadas en la Consola escribir: conda list
+      a. Instalamos Free Download | Anaconda
+    
+      b. Buscar Anaconda notebooks- Jupyter. En Jupyter podemos instalar las librerías igual con pip install y si queremos verificar si están cargadas en la Consola escribir: conda list
 
 
   
 6. Ya con eso podemos usar Python en PowerBI
    
-  a. Cargamos un archivo (Nuevo origen – Script de Python)
-
-  b. Transformamos datos en Power Query
-  
-  c. Creamos visualizaciones
+      a. Cargamos un archivo (Nuevo origen – Script de Python)
+    
+      b. Transformamos datos en Power Query
+      
+      c. Creamos visualizaciones
  
