@@ -14,21 +14,21 @@ Download Python | Python.org
 
 3. Abrir la Consola (Windows + R) Escribir CMD, ratón derecho Ejecutar como administrador
 
-a. Escribir Python para verificar si está cargado
+    a. Escribir Python para verificar si está cargado
+    
+    b. Instalar las librerías:
 
-b. Instalar las librerías:
-
-    pip install pandas
-    
-    pip install matplotlib
-    
-    pip install seaborn
-    
-    pip install numpy
-    
-    pip install Pygwalker
-    
-    pip install Quickvisualize
+        pip install pandas
+        
+        pip install matplotlib
+        
+        pip install seaborn
+        
+        pip install numpy
+        
+        pip install Pygwalker
+        
+        pip install Quickvisualize
 
 Para actualizarlas pip install –upgrade
  
