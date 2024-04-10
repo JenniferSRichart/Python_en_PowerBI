@@ -12,7 +12,7 @@ Download Python | Python.org
 2. En PowerBi en Opciones y configuración – Opciones – Creación de Scrip de Python
    
 
-4. Abrir la Consola (Windows + R) Escribir CMD, ratón derecho Ejecutar como administrador
+4. Abrir la Consola (Windows + R) Escribir CMD, ratón derecho Ejecutar como administrador.
 
     a. Escribir Python para verificar si está cargado
     
