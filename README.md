@@ -9,6 +9,7 @@ Pasos
 Download Python | Python.org
 
 
+
 2. En PowerBi en Opciones y configuración – Opciones – Creación de Scrip de Python
    
 
